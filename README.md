@@ -6,7 +6,7 @@
 ![NIST](https://img.shields.io/badge/Standard-NIST%20800--61r2-blue)
 
 **Author:** Esosa Okonedo  
-**X Handle:** [@FineBoyJermaine](https://twitter.com/J_e_r_m_a_i_n_e)  
+**X Handle:** [@FineBoyJermaine](https://twitter.com/J_e_r_m_a_i_ne)  
 **Completed:** August 13, 2025  
 **Dataset:** Splunk BOTSv3 (Hybrid Cloud)  
 **Duration:** ~2h 23m  
@@ -124,10 +124,8 @@ Bucket was re-secured at **1:57 PM**. Mining continued until isolated.
 ## About Me
 
 **Esosa Okonedo** – Entry-Level SOC Analyst | Splunk | AWS | Blue Team  
-- [X (Twitter)](https://twitter.com/FineBoyJermaine)  
-- [LinkedIn](https://linkedin.com/in/esosaokonedo) *(update link)*  
-- [TryHackMe](https://tryhackme.com/p/FineBoyJermaine) *(if applicable)*  
-- **Certifications:** Google Cybersecurity Professional, Splunk Fundamentals 1  
+- [X (Twitter)](https://twitter.com/J_e_r_m_a_i_ne)
+- [Medium](https://medium.com/@esosaokonedo1999)
 
 > *Based on Splunk’s public BOTSv3 dataset: [github.com/splunk/botsv3](https://github.com/splunk/botsv3)*
 
