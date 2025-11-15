@@ -84,7 +84,7 @@ index=botsv3 sourcetype=stream:dns "coinhive"
 | timechart span=1m count by query
 ```
 
-> Full queries → [`splunk-queries/queries.md`](./splunk-queries/queries.md)
+> Full queries → [`splunk-queries/queries.md`](https://github.com/EsosaSEC/Splunk-botsv3-soc-analyst-investigation/blob/main/Splunk-Queries/queries.md)
 
 ---
 
