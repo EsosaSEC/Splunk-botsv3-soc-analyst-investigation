@@ -6,7 +6,7 @@
 ![NIST](https://img.shields.io/badge/Standard-NIST%20800--61r2-blue)
 
 **Author:** Esosa Okonedo  
-**X Handle:** [@FineBoyJermaine](https://twitter.com/)  
+**X Handle:** [@FineBoyJermaine](https://twitter.com/J_e_r_m_a_i_n_e)  
 **Completed:** August 13, 2025  
 **Dataset:** Splunk BOTSv3 (Hybrid Cloud)  
 **Duration:** ~2h 23m  
@@ -43,10 +43,6 @@ Simulated a **Tier 1 SOC Analyst** role using **Splunk** to investigate a breach
 | Mining host (FQDN) | `BSTOLL-L.FROTH.LY` (Windows 10 **Enterprise**) |
 
 ---
-
-## Repository Structure
-
-
 ---
 
 ## Skills Demonstrated
