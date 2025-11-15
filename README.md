@@ -118,7 +118,6 @@ Bucket was re-secured at **1:57 PM**. Mining continued until isolated.
 
 [Download PDF](https://docs.google.com/document/d/1NgtzkfschPFR3gEam1qHGMNjimBiTlLV6dG5rclENho/edit?usp=drive_link)  
 
-
 ---
 
 ## About Me
@@ -126,6 +125,4 @@ Bucket was re-secured at **1:57 PM**. Mining continued until isolated.
 **Esosa Okonedo** – Entry-Level SOC Analyst | Splunk | AWS | Blue Team  
 - [X (Twitter)](https://twitter.com/J_e_r_m_a_i_ne)
 - [Medium](https://medium.com/@esosaokonedo1999)
-
-> *Based on Splunk’s public BOTSv3 dataset: [github.com/splunk/botsv3](https://github.com/splunk/botsv3)*
 
